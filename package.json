@@ -32,5 +32,11 @@
     "type": "git",
     "url": "https://github.com/olga-f/light-color-theme"
   },
-  "license": "SEE LICENSE IN LICENSE.md"
+  "scripts": {
+    "deploy": "vsce publish --yarn"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "devDependencies": {
+    "vsce": "^1.77.0"
+  }
 }
