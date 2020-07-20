@@ -1,0 +1,36 @@
+{
+  "name": "light-color-theme",
+  "displayName": "Light Color Theme",
+  "description": "Light theme for Visual Studio Code",
+  "version": "0.0.1",
+  "publisher": "Olga F. Andreiko",
+  "engines": {
+    "vscode": "^1.47.0"
+  },
+  "icon": "images/icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "light",
+    "themes",
+    "best",
+    "color",
+    "colour"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Light Color Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Light Color Theme-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olga-f/light-color-theme"
+  },
+  "license": "SEE LICENSE IN LICENSE.md"
+}
