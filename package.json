@@ -2,7 +2,7 @@
   "name": "light-color-theme",
   "displayName": "Light Color Theme",
   "description": "Light theme for Visual Studio Code",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "olga-f",
   "engines": {
     "vscode": "^1.47.0"
