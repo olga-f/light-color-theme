@@ -20,9 +20,8 @@ You can install this theme through the [Visual Studio Code Marketplace](https://
 
 2. Paste the following command and press `Enter`:
 
-```shell
+```
 ext install light-color-theme
-
 ```
 
 3. Pick the one by **Olga F. Andreiko (olga-f)** as author.
