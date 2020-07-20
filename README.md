@@ -1,5 +1,7 @@
 # Light Color Theme - Visual Studio Code Extension
 
-![](https://raw.githubusercontent.com/olga-f/light-color-theme/master/images/capture.jpg)
+A colorful **light theme** for vscode
 
-![](https://raw.githubusercontent.com/olga-f/light-color-theme/master/images/screen.jpg)
+![](https://github.com/olga-f/light-color-theme/blob/master/images/capture.JPG)
+
+![](https://github.com/olga-f/light-color-theme/blob/master/images/screen.jpg)
