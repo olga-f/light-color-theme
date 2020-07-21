@@ -42,11 +42,11 @@ File → Preferences → Settings → Edit in settings.json
  "bracket-pair-colorizer-2.colors": ["#011936", "#FF1654", "#16A35A"]
 ```
 
-<img src="https://github.com/olga-f/light-color-theme/raw/master/images/brackets.JPG" width=250 />
+<img src="https://github.com/olga-f/light-color-theme/raw/master/images/brackets.JPG" width=380 />
 
 ### Issue
 
-If you find any inconsistency in any language, you can help by [reporting issues](https://github.com/olga-f/light-color-theme/issues).
+If you find any inconsistency, you can help by [reporting issues](https://github.com/olga-f/light-color-theme/issues).
 It is great to attach a case code, screenshot & copy.
 
 ### Encourage
