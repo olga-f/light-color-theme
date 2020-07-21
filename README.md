@@ -51,4 +51,4 @@ It is great to attach a case code, screenshot & copy.
 
 ### Encourage
 
-If you do like this theme, would you please give me a [Github Star ☆](https://github.com/olga-f/light-color-theme) and [Nice Rating](https://marketplace.visualstudio.com/items?itemName=olga-f.light-color-theme&ssr=false#review-details) as reward. Thank you so much!
+If you do like this theme, would you please give me a [Github Star ☆](https://github.com/olga-f/light-color-theme) and [nice rating](https://marketplace.visualstudio.com/items?itemName=olga-f.light-color-theme&ssr=false#review-details) as reward. Thank you so much!
