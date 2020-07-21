@@ -32,7 +32,7 @@ File → Preferences → Color Theme → Light Color Theme
 
 ### Advanced
 
-For a better experience, I recommend a plugin [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) for you.
+For a better experience, I recommend a plugin [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2).
 
 Here is my Bracket Pair Colorizer setting for light theme:
 
@@ -42,12 +42,13 @@ File → Preferences → Settings → Edit in settings.json
  "bracket-pair-colorizer-2.colors": ["#011936", "#FF1654", "#16A35A"]
 ```
 
-![](https://github.com/olga-f/light-color-theme/raw/master/images/brackets.JPG)
+<img src="https://github.com/olga-f/light-color-theme/raw/master/images/brackets.JPG" width=250 />
 
 ### Issue
 
-If you find any inconsistency in any language, you can help by [reporting issues](https://github.com/olga-f/light-color-theme/issues)(It is great to attach a case code, screenshot & copy).
+If you find any inconsistency in any language, you can help by [reporting issues](https://github.com/olga-f/light-color-theme/issues).
+It is great to attach a case code, screenshot & copy.
 
 ### Encourage
 
-If you do like this theme, would you please give me a [Github Star ☆](https://github.com/olga-f/light-color-theme) and [Nice Rating](https://marketplace.visualstudio.com/items?itemName=olga-f.light-color-theme) as reward. Thank you so much!
+If you do like this theme, would you please give me a [Github Star ☆](https://github.com/olga-f/light-color-theme) and [Nice Rating](https://marketplace.visualstudio.com/items?itemName=olga-f.light-color-theme&ssr=false#review-details) as reward. Thank you so much!
