@@ -1,1 +1,2 @@
-light-color-theme-0.0.5.vsix
+light-color-theme-*.vsix
+node_modules/
