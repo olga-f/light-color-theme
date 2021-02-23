@@ -46,7 +46,7 @@
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#919191"
+        "foreground": "#AAAAAA"
       }
     },
     {
@@ -54,7 +54,7 @@
       "scope": "comment.block.preprocessor",
       "settings": {
         "fontStyle": "",
-        "foreground": "#919191"
+        "foreground": "#AAAAAA"
       }
     },
     {
