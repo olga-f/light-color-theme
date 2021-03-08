@@ -6,11 +6,13 @@ A colorful **light theme** for vscode
 
 ![](https://github.com/olga-f/light-color-theme/raw/master/images/color.JPG)
 
----
+<br/>
+<br/>
 
 ![](https://github.com/olga-f/light-color-theme/raw/master/images/code.JPG)
 
----
+<br/>
+<br/>
 
 ![](https://github.com/olga-f/light-color-theme/raw/master/images/terminal.JPG)
 
