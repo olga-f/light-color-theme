@@ -17,7 +17,8 @@
     "themes",
     "best",
     "color",
-    "colour"
+    "colour",
+    "dark terminal"
   ],
   "contributes": {
     "themes": [

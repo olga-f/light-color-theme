@@ -2,9 +2,11 @@
 
 A colorful **light theme** for vscode
 
-![](https://github.com/olga-f/light-color-theme/raw/master/images/capture.JPG)
-
-![](https://github.com/olga-f/light-color-theme/raw/master/images/screen.JPG)
+![](https://github.com/olga-f/light-color-theme/raw/master/images/color.JPG)
+![](https://github.com/olga-f/light-color-theme/raw/master/images/code.JPG)
+![](https://github.com/olga-f/light-color-theme/raw/master/images/terminal.JPG)
+![](https://github.com/olga-f/light-color-theme/raw/master/images/theme.JPG)
+![](https://github.com/olga-f/light-color-theme/raw/master/images/editor.JPG)
 
 ## Installation
 
@@ -29,20 +31,6 @@ ext install light-color-theme
 ### Activate
 
 File → Preferences → Color Theme → Light Color Theme
-
-### Advanced
-
-For a better experience, I recommend a plugin [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2).
-
-Here is my Bracket Pair Colorizer setting for light theme:
-
-File → Preferences → Settings → Edit in settings.json
-
-```json
- "bracket-pair-colorizer-2.colors": ["#011936", "#FF1654", "#16A35A"]
-```
-
-<img src="https://github.com/olga-f/light-color-theme/raw/master/images/brackets.JPG" width=380 />
 
 ### Issue
 
