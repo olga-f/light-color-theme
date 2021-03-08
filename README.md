@@ -2,19 +2,24 @@
 
 A colorful **light theme** for vscode
 
----
+
 
 ![](https://github.com/olga-f/light-color-theme/raw/master/images/code.JPG)
 
----
+
 
 ![](https://github.com/olga-f/light-color-theme/raw/master/images/color.JPG)
 
----
+
 
 ![](https://github.com/olga-f/light-color-theme/raw/master/images/terminal.JPG)
+
+
 ![](https://github.com/olga-f/light-color-theme/raw/master/images/theme.JPG)
+
+
 ![](https://github.com/olga-f/light-color-theme/raw/master/images/editor.JPG)
+
 
 ## Installation
 
