@@ -2,9 +2,6 @@
   "name": "Light Color Theme",
   "type": "light",
   "colors": {
-    //   "scrollbarSlider.activeBackground": "#E2B6CF",
-    //   "scrollbarSlider.background": "#E2B6CF",
-    //  "scrollbarSlider.hoverBackground": "#E2B6CF",
     "scrollbarSlider.activeBackground": "#E5E6F2",
     "scrollbarSlider.background": "#eee",
     "scrollbarSlider.hoverBackground": "#Eee",
@@ -194,7 +191,9 @@
         "punctuation.definition.template-expression.begin",
         "punctuation.definition.template-expression.end",
         "punctuation.definition.block",
-        "punctuation.definition.binding-pattern.object"
+        "punctuation.definition.binding-pattern.object",
+        "punctuation.section.embedded.begin",
+        "punctuation.section.embedded.end"
       ],
       "settings": {
         "foreground": "#FF1654"
