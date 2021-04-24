@@ -1,7 +1,8 @@
 # Light Color Theme - Visual Studio Code Extension
 
-<hr/>
 [![Marketplace Version](https://vsmarketplacebadge.apphb.com/version-short/olga-f.light-color-theme.svg)](https://marketplace.visualstudio.com/items?itemName=olga-f.light-color-theme) [![Downloads](https://vsmarketplacebadge.apphb.com/downloads-short/olga-f.light-color-theme.svg)](https://marketplace.visualstudio.com/items?itemName=olga-f.light-color-theme) [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/olga-f.light-color-theme.svg)](https://marketplace.visualstudio.com/items?itemName=olga-f.light-color-theme) 
+
+
 A colorful **light theme** for vscode
 
 <br/>
