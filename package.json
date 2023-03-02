@@ -2,7 +2,7 @@
   "name": "light-color-theme",
   "displayName": "Light Color Theme",
   "description": "Light theme for Visual Studio Code",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "publisher": "olga-f",
   "engines": {
     "vscode": "^1.47.0"
@@ -21,6 +21,7 @@
     "Light Theme",
     "dark terminal"
   ],
+  "pricing": "Free",
   "contributes": {
     "themes": [
       {
@@ -40,6 +41,6 @@
   },
   "license": "SEE LICENSE IN LICENSE.md",
   "devDependencies": {
-    "vsce": "^1.93.0"
+    "@vscode/vsce": "^2.18.0"
   }
 }
