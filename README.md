@@ -1,7 +1,7 @@
 # Light Color Theme - Visual Studio Code Extension
 
 
-#### The colorful **light theme** for VS Code.
+#### The colorful **light theme** with dark terminal for VS Code.
 
 Improve your **code readability** and syntax **highlighting** and get a better **developer experience** when working with testing tools.
 

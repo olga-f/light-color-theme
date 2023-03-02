@@ -1,8 +1,8 @@
 {
   "name": "light-color-theme",
   "displayName": "Light Color Theme",
-  "description": "Light theme for Visual Studio Code",
-  "version": "0.1.6",
+  "description": "Light theme with dark terminal for Visual Studio Code",
+  "version": "0.1.7",
   "publisher": "olga-f",
   "engines": {
     "vscode": "^1.47.0"
