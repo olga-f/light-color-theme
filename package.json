@@ -1,8 +1,8 @@
 {
   "name": "light-color-theme",
-  "displayName": "Light Color Theme",
-  "description": "Light theme with dark terminal for Visual Studio Code",
-  "version": "0.1.8",
+  "displayName": "Colorful Light Theme with Dark Terminal",
+  "description": "A light theme with colorful syntax highlighting, paired with a dark terminal for an enhanced coding experience in VS Code",
+  "version": "0.1.9",
   "publisher": "olga-f",
   "engines": {
     "vscode": "^1.8.0"
@@ -19,7 +19,16 @@
     "color",
     "colour",
     "Light Theme",
-    "dark terminal"
+    "dark terminal",
+    "light theme",
+    "colorful theme",
+    "VS Code theme",
+    "syntax highlighting",
+    "coding theme",
+    "editor theme",
+    "bright theme",
+    "dark mode",
+    "developer experience"
   ],
   "pricing": "Free",
   "contributes": {
