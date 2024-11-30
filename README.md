@@ -1,8 +1,12 @@
-# Light Color Theme with Dark Terminal - Visual Studio Code Extension
+# Colorful Light Theme with Dark Terminal - Visual Studio Code Extension
 
-Elevate your coding experience with the **Light Color Theme** for Visual Studio Code!
+Elevate your coding experience with the **Colorful Light Theme** for Visual Studio Code!
 
-This light-themed extension features a **dark terminal** to enhance contrast, improve **code readability**, and deliver precise **syntax highlighting**. Whether you're coding or debugging in the **terminal**, this theme ensures a visually appealing and highly productive developer experience.
+This light-themed extension features a **dark terminal** to enhance contrast, improve **code readability**, and deliver precise **syntax highlighting**. 
+
+
+
+Whether you're coding or debugging in the **terminal**, this theme ensures a visually appealing and productive developer experience.
 
 
 
