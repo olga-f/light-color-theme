@@ -2,7 +2,7 @@
 
 Elevate your coding experience with the **Colorful Light Theme** for Visual Studio Code!
 
-This light-themed extension features a **dark terminal** to enhance contrast, improve **code readability**, and deliver precise **syntax highlighting**. 
+This light-themed extension features a **dark terminal** to enhance contrast, improve **code readability**, and deliver **syntax highlighting**. 
 
 
 
@@ -28,25 +28,7 @@ Whether you're coding or debugging in the **terminal**, this theme ensures a vis
 
 You can install this theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=olga-f.light-color-theme)
 
-OR
 
-1. Launch _Quick Open_
-
-- <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16 /> Linux Ctrl + P
-- <img src="https://developer.apple.com/favicon.ico" width=16 height=16 /> macOS ⌘ P
-- <img src="https://www.microsoft.com/favicon.ico" width=16 height=16 /> Windows Ctrl + P
-
-2. Paste the following command into VSCode extension input and press `Enter`:
-
-```shell
-ext install light-color-theme
-```
-
-3. Pick the one by **Olga F. Andreiko (olga-f)** as author.
-
-### Activate
-
-File → Preferences → Color Theme → Light Color Theme
 
 ### Issue
 
