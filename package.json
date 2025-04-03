@@ -1,8 +1,8 @@
 {
   "name": "light-color-theme",
-  "displayName": "Colorful Light Theme with Dark Terminal",
+  "displayName": "Light Color Theme",
   "description": "A light theme with colorful syntax highlighting, paired with a dark terminal for an enhanced coding experience in VS Code",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "publisher": "olga-f",
   "engines": {
     "vscode": "^1.8.0"
@@ -50,6 +50,6 @@
   },
   "license": "SEE LICENSE IN LICENSE.md",
   "devDependencies": {
-    "@vscode/vsce": "^3.2.1"
+    "@vscode/vsce": "^3.3.2"
   }
 }
